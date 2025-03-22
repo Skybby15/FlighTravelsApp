@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\superfligts\\superflightsapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\superfligts\\superflightsapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\superfligts\\superflightsapp\\miniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:miniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\superfligts\\superflightsapp\\miniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:miniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\superfligts\\superflightsapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiniForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MiniForm.cs",
+              "RelativeDocumentMoniker": "MiniForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MiniForm.cs [Design]",
+              "RelativeToolTip": "MiniForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T21:51:47.867Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T21:28:11.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MiniForm.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MiniForm.cs",
+              "RelativeDocumentMoniker": "MiniForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MiniForm.cs",
+              "RelativeToolTip": "MiniForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T22:14:51.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T21:49:09.035Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAFIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T21:48:36.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

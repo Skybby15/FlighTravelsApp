@@ -1,0 +1,17 @@
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\bin\Debug\net8.0-windows\SuperFlightsApp.exe
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\bin\Debug\net8.0-windows\SuperFlightsApp.deps.json
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\bin\Debug\net8.0-windows\SuperFlightsApp.runtimeconfig.json
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\bin\Debug\net8.0-windows\SuperFlightsApp.dll
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\bin\Debug\net8.0-windows\SuperFlightsApp.pdb
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\SuperFlightsApp.MainForm.resources
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\SuperFlightsApp.MiniForm.resources
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\SuperFlightsApp.csproj.GenerateResource.cache
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\SuperFlightsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\SuperFlightsApp.AssemblyInfoInputs.cache
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\SuperFlightsApp.AssemblyInfo.cs
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\SuperFlightsApp.csproj.CoreCompileInputs.cache
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\SuperFlightsApp.dll
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\refint\SuperFlightsApp.dll
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\SuperFlightsApp.pdb
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\SuperFlightsApp.genruntimeconfig.cache
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\ref\SuperFlightsApp.dll

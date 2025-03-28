@@ -15,3 +15,10 @@ C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.
 C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\SuperFlightsApp.pdb
 C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\SuperFlightsApp.genruntimeconfig.cache
 C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\ref\SuperFlightsApp.dll
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\SuperFlightsApp.sourcelink.json
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\SuperFlightsApp.Properties.Resources.resources
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\SuperFlightsApp.FAQForm.resources
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\SuperFlightsApp.FlightsForm.resources
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\SuperFlightsApp.HomeForm.resources
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\SuperFlightsApp.TicketsForm.resources
+C:\Users\Claudiu\Desktop\GithubRepos\SuperFligts\SuperFlightsApp\obj\Debug\net8.0-windows\SuperFlightsApp.Flight.resources

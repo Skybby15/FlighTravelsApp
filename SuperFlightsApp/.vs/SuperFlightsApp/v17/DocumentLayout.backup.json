@@ -3,20 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\superfligts\\superflightsapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\superfligts\\superflightsapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\superfligts\\superflightsapp\\miniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\superfligts\\superflightsapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\superfligts\\superflightsapp\\flightsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:flightsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\flightsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:flightsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\superfligts\\superflightsapp\\homeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:homeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\superfligts\\superflightsapp\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\superfligts\\superflightsapp\\overrides\\roundedlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:overrides\\roundedlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\superfligts\\superflightsapp\\superflightsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:superflightsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\miniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:miniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\ticketsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:ticketsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\faqform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:faqform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\superfligts\\superflightsapp\\miniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:miniform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\superfligts\\superflightsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC645127-0D46-4F01-8A63-8E026E18EE47}|SuperFlightsApp.csproj|c:\\users\\claudiu\\desktop\\githubrepos\\superfligts\\superflightsapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,66 +82,190 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MiniForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MiniForm.cs",
-              "RelativeDocumentMoniker": "MiniForm.cs",
-              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MiniForm.cs [Design]",
-              "RelativeToolTip": "MiniForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T21:51:47.867Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MainForm.cs",
-              "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T21:28:11.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MiniForm.cs",
-              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MiniForm.cs",
-              "RelativeDocumentMoniker": "MiniForm.cs",
-              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MiniForm.cs",
-              "RelativeToolTip": "MiniForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T22:14:51.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
               "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MainForm.cs [Design]",
               "RelativeToolTip": "MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T21:49:09.035Z",
+              "WhenOpened": "2025-03-23T16:14:58.295Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlightsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\FlightsForm.cs",
+              "RelativeDocumentMoniker": "FlightsForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\FlightsForm.cs",
+              "RelativeToolTip": "FlightsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:13:19.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\HomeForm.cs",
+              "RelativeDocumentMoniker": "HomeForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\HomeForm.cs [Design]",
+              "RelativeToolTip": "HomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:55:06.138Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "FlightsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\FlightsForm.cs",
+              "RelativeDocumentMoniker": "FlightsForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\FlightsForm.cs [Design]",
+              "RelativeToolTip": "FlightsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:54:51.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAtwPgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:18:23.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Flight.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\Flight.cs",
+              "RelativeDocumentMoniker": "Flight.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\Flight.cs [Design]",
+              "RelativeToolTip": "Flight.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:09:42.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\HomeForm.Designer.cs",
+              "RelativeDocumentMoniker": "HomeForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\HomeForm.Designer.cs",
+              "RelativeToolTip": "HomeForm.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:50:59.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeForm.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\HomeForm.cs",
+              "RelativeDocumentMoniker": "HomeForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\HomeForm.cs",
+              "RelativeToolTip": "HomeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:15:13.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoundedLabel.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\Overrides\\RoundedLabel.cs",
+              "RelativeDocumentMoniker": "Overrides\\RoundedLabel.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\Overrides\\RoundedLabel.cs",
+              "RelativeToolTip": "Overrides\\RoundedLabel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:49:50.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SuperFlightsApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\SuperFlightsApp.csproj",
+              "RelativeDocumentMoniker": "SuperFlightsApp.csproj",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\SuperFlightsApp.csproj",
+              "RelativeToolTip": "SuperFlightsApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T10:54:28.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MiniForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MiniForm.cs",
+              "RelativeDocumentMoniker": "MiniForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MiniForm.cs [Design]",
+              "RelativeToolTip": "MiniForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:13:57.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TicketsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\TicketsForm.cs",
+              "RelativeDocumentMoniker": "TicketsForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\TicketsForm.cs [Design]",
+              "RelativeToolTip": "TicketsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:55:21.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FAQForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\FAQForm.cs",
+              "RelativeDocumentMoniker": "FAQForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\FAQForm.cs [Design]",
+              "RelativeToolTip": "FAQForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:55:44.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MiniForm.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MiniForm.cs",
+              "RelativeDocumentMoniker": "MiniForm.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MiniForm.cs",
+              "RelativeToolTip": "MiniForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:28:22.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:27:00.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "MainForm.Designer.cs",
               "ToolTip": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\MainForm.Designer.cs",
               "RelativeToolTip": "MainForm.Designer.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAFIAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T21:48:36.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T21:48:36.153Z"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperFlightsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6509d7ba686ed5f0e7d03564940108d4673d448a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b05a0a6821e00737e3bebd77dfa4fe7accd1626")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuperFlightsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperFlightsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

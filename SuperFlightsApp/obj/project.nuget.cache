@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "eyKqzvDS+y8=",
+  "dgSpecHash": "msDOGMcRtcY=",
   "success": true,
   "projectFilePath": "C:\\Users\\Claudiu\\Desktop\\GithubRepos\\SuperFligts\\SuperFlightsApp\\SuperFlightsApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Claudiu\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Claudiu\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
   "logs": []
 }

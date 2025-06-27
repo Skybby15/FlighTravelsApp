@@ -1,28 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="FAQForm.cs">
+    <Compile Update="MiniForms\BuyTicketForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Flight.cs">
+    <Compile Update="MiniForms\FAQForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FlightsForm.cs">
+    <Compile Update="AuxiliarForms\LongFlight.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="HomeForm.cs">
+    <Compile Update="MiniForms\FlightsForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="MainForm.cs">
+    <Compile Update="AuxiliarForms\MediumFlight.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="MiniForm.cs">
+    <Compile Update="AuxiliarForms\SmallFlight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiniForms\BoughtFlightTicketForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiniForms\SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiniForms\HomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TopForms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TopForms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiniForms\MiniForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Overrides\RoundedLabel.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Update="TicketsForm.cs">
+    <Compile Update="MiniForms\TicketsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TopForms\SignUpForm.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
